@@ -2,6 +2,7 @@
     "name": "xpdeal/yii2-best-router",
     "description": "Yii route helper",
     "type": "library",
+    "minimum-stability": "stable",
     "require": {
         "ramsey/uuid": "^4.7"
     },
