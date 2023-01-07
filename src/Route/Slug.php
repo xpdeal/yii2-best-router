@@ -10,4 +10,9 @@ class Slug
     {
         return $text;
     }
+
+    public function parse()
+    {
+        return $this;
+    }
 }
