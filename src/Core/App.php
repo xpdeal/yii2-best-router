@@ -1,6 +1,6 @@
 <?php
 
-namespace Xpdeal\Yii2BestRouter\Core;
+namespace Yii2BestRouter\Core;
 
 class App
 {
