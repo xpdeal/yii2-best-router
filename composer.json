@@ -2,8 +2,10 @@
     "name": "xpdeal/yii2-best-router",
     "description": "Yii route helper",
     "type": "library",
+    "license": "MIT",
     "minimum-stability": "stable",
     "require": {
+        "php": ">=7.1",
         "ramsey/uuid": "^4.7"
     },
     "require-dev": {
@@ -11,13 +13,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Xpdeal\\Yii2BestRouter\\": "src/"
+            "Yii2BestRouter\\": "src/"
         }
     },
     "authors": [
         {
             "name": "Jordan Carvalho",
-            "email": "jordan+2@xpdeal.com"
+            "email": "jordan@xpdeal.com"
         }
     ]
 }
